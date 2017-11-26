@@ -5,12 +5,17 @@
 * duration - duration of meetings
 ### --------------
 ## Input format:
-#### n
-#### sTime duration
-#### sTime duration
-#### ...
-#### sTime duration
-### --------------
+n
+
+sTime duration
+
+sTime duration
+
+...
+
+sTime duration
+
+\--------------
 ## Output
 * list of optimum number of non-time-conflicted meetings with their sTime and duration
 * a number of meetings in ouput
