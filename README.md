@@ -26,18 +26,18 @@
 #### 25 10
 ### --------------
 ## Example output
-#### Received list of meetings: 
-#### Start time: 2 | Duration: 10
-#### Start time: 3 | Duration: 13
-#### Start time: 13 | Duration: 10
-#### Start time: 25 | Duration: 10
-#### Start time: 0 | Duration: 1440
-#### --------------
-#### Computed optimized timetable: 
-#### Start time: 2 | Duration: 10
-#### Start time: 13 | Duration: 10
-#### Start time: 25 | Duration: 10
-####
-#### Number of meetings: 3
+Received list of meetings: 
+Start time: 2 | Duration: 10
+Start time: 3 | Duration: 13
+Start time: 13 | Duration: 10
+Start time: 25 | Duration: 10
+Start time: 0 | Duration: 1440
+--------------
+Computed optimized timetable: 
+Start time: 2 | Duration: 10
+Start time: 13 | Duration: 10
+Start time: 25 | Duration: 10
+--------------
+Number of meetings: 3
   
-#### Process finished with exit code 0
+Process finished with exit code 0
