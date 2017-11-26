@@ -16,28 +16,50 @@
 * a number of meetings in ouput
 ### --------------
 ## Example input:
-###3 TimeTable Optimizer
-#### Enter number of available meetings and starting minute and duration for each
-#### 5
-#### 0 1440
-#### 2 10
-#### 3 13
-#### 13 10
-#### 25 10
-### --------------
+TimeTable Optimizer
+ 
+Enter number of available meetings and starting minute and duration for each
+
+5
+
+0 1440
+
+2 10
+
+3 13
+
+13 10
+
+25 10
+
+\--------------
 ## Example output
 Received list of meetings: 
+
 Start time: 2 | Duration: 10
+
 Start time: 3 | Duration: 13
+
 Start time: 13 | Duration: 10
+
 Start time: 25 | Duration: 10
+
 Start time: 0 | Duration: 1440
---------------
+
+\--------------
+
 Computed optimized timetable: 
+
 Start time: 2 | Duration: 10
+
 Start time: 13 | Duration: 10
+
 Start time: 25 | Duration: 10
---------------
+
+\--------------
+
 Number of meetings: 3
+
   
 Process finished with exit code 0
+
