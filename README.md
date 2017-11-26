@@ -18,7 +18,7 @@ sTime duration
 \--------------
 ## Output
 * list of optimum number of non-time-conflicted meetings with their sTime and duration
-* a number of meetings in ouput
+* a number of meetings in output
 ### --------------
 ## Example input:
 TimeTable Optimizer
